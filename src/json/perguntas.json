@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "conteudo": "Qual é o ativador da resina autopolimerizável?",
+    "resposta01": "Canforoquinona",
+    "resposta02": "Amina terciária",
+    "resposta03": "Hidroquinona",
+    "resposta04": "Calor",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 2,
+    "conteudo": "O que ativa a polimerização da resina autopolimerizável em temperatura ambiente?",
+    "resposta01": "A luz azul",
+    "resposta02": "O calor da água",
+    "resposta03": "A reação entre peróxido de benzoíla e amina terciária",
+    "resposta04": "A pressão atmosférica",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 3,
+    "conteudo": "Qual é o ativador da resina termopolimerizável?",
+    "resposta01": "Amina terciária",
+    "resposta02": "Luz azul",
+    "resposta03": "Peróxido de benzoíla",
+    "resposta04": "Calor",
+    "resposta_correta": "4"
+  },
+  {
+    "id": 4,
+    "conteudo": "Em que faixa de temperatura geralmente ocorre a ativação da resina termopolimerizável?",
+    "resposta01": "20°C a 30°C",
+    "resposta02": "40°C a 60°C",
+    "resposta03": "74°C a 100°C",
+    "resposta04": "110°C a 130°C",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 5,
+    "conteudo": "Qual é o ativador da resina fotopolimerizável?",
+    "resposta01": "Peróxido de benzoíla",
+    "resposta02": "Luz azul",
+    "resposta03": "Hidroquinona",
+    "resposta04": "Amina terciária",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 6,
+    "conteudo": "Qual composto é ativado pela luz azul na resina fotopolimerizável?",
+    "resposta01": "Canforoquinona",
+    "resposta02": "Metilmetacrilato",
+    "resposta03": "Polimetilmetacrilato",
+    "resposta04": "Sílica",
+    "resposta_correta": "1"
+  },
+  {
+    "id": 7,
+    "conteudo": "Qual é o iniciador das resinas autopolimerizável e termopolimerizável?",
+    "resposta01": "Canforoquinona",
+    "resposta02": "Luz azul",
+    "resposta03": "Peróxido de benzoíla",
+    "resposta04": "Ácido fosfórico",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 8,
+    "conteudo": "Qual é o iniciador da resina fotopolimerizável?",
+    "resposta01": "Peróxido de benzoíla",
+    "resposta02": "Polimetilmetacrilato",
+    "resposta03": "Metilmetacrilato",
+    "resposta04": "Canforoquinona",
+    "resposta_correta": "4"
+  },
+  {
+    "id": 9,
+    "conteudo": "Qual é o monômero líquido predominante nas resinas acrílicas?",
+    "resposta01": "Polimetilmetacrilato",
+    "resposta02": "Canforoquinona",
+    "resposta03": "Metilmetacrilato",
+    "resposta04": "Hidroquinona",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 10,
+    "conteudo": "Qual substância é responsável pela fluidez da resina acrílica antes da polimerização?",
+    "resposta01": "PMMA",
+    "resposta02": "MMA",
+    "resposta03": "Sílica",
+    "resposta04": "Água destilada",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 11,
+    "conteudo": "Qual é o nome do polímero final formado nas resinas acrílicas?",
+    "resposta01": "Metilmetacrilato",
+    "resposta02": "Polimetilmetacrilato",
+    "resposta03": "Peróxido de benzoíla",
+    "resposta04": "Canforoquinona",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 12,
+    "conteudo": "O PMMA é formado após a polimerização de qual composto?",
+    "resposta01": "Canforoquinona",
+    "resposta02": "MMA",
+    "resposta03": "Hidroquinona",
+    "resposta04": "Água destilada",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 13,
+    "conteudo": "Qual é o inibidor das resinas acrílicas?",
+    "resposta01": "Canforoquinona",
+    "resposta02": "Peróxido de benzoíla",
+    "resposta03": "Hidroquinona",
+    "resposta04": "Metilmetacrilato",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 14,
+    "conteudo": "Qual a função da hidroquinona na composição da resina acrílica?",
+    "resposta01": "Ativar a polimerização",
+    "resposta02": "Prevenir polimerização precoce",
+    "resposta03": "Dar cor à resina",
+    "resposta04": "Aumentar a viscosidade",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 15,
+    "conteudo": "Qual é a primeira fase da polimerização da resina acrílica?",
+    "resposta01": "Elástica",
+    "resposta02": "Fibrilar",
+    "resposta03": "Arenosa",
+    "resposta04": "Plástica",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 16,
+    "conteudo": "Em que fase da polimerização a resina já está moldável?",
+    "resposta01": "Arenosa",
+    "resposta02": "Plástica",
+    "resposta03": "Rígida",
+    "resposta04": "Elástica",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 17,
+    "conteudo": "Qual técnica ajuda a eliminar bolhas na polimerização da resina?",
+    "resposta01": "Mistura rápida",
+    "resposta02": "Resfriamento abrupto",
+    "resposta03": "Aplicar pressão",
+    "resposta04": "Adicionar água",
+    "resposta_correta": "3"
+  },
+  {
+    "id": 18,
+    "conteudo": "O que pode ser adicionado à resina para aumentar sua resistência mecânica?",
+    "resposta01": "Água destilada",
+    "resposta02": "Sílica ou fibras",
+    "resposta03": "Corante",
+    "resposta04": "Canforoquinona",
+    "resposta_correta": "2"
+  },
+  {
+    "id": 19,
+    "conteudo": "Qual é a proporção tradicional de pó para líquido na mistura da resina acrílica?",
+    "resposta01": "1:1",
+    "resposta02": "1:2",
+    "resposta03": "2:1",
+    "resposta04": "3:1",
+    "resposta_correta": "4"
+  },
+  {
+    "id": 20,
+    "conteudo": "Qual a contração volumétrica aproximada do MMA puro na polimerização?",
+    "resposta01": "21%",
+    "resposta02": "10%",
+    "resposta03": "7%",
+    "resposta04": "3%",
+    "resposta_correta": "1"
+  }
+] 
